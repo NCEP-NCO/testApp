@@ -12,12 +12,12 @@ encountered within the development branches and releases.
 For reporting operational or NCO affected bugs, please use the [NCO Bug Report](./NCO_bug_report.md) template.
 -->
 
+Your issue may already be reported!
+Please search on the [Issue tracker](https://github.com/NOAA-EMC/testApp/issues) before creating one.
 <!--
 Please look through the existing issues to see if this bug has been reported and an Issue has been created.
 If so, please consider using that Issue to add any additional information.
 -->
-Your issue may already be reported!
-Please search on the [Issue tracker](https://github.com/NOAA-EMC/testApp/issues) before creating one.
 
 **Expected behavior**
 <!-- Tell us what should happen. -->
