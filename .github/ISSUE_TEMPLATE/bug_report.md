@@ -1,6 +1,6 @@
 ---
 name: Bug report
-about: Create a report to help us improve
+about: Create a bug report to help us improve
 title: '[Bug] <title>'
 labels: bug
 assignees: 'aerorahul'
@@ -16,6 +16,8 @@ For reporting operational or NCO affected bugs, please use the [NCO Bug Report](
 Please look through the existing issues to see if this bug has been reported and an Issue has been created.
 If so, please consider using that Issue to add any additional information.
 -->
+Your issue may already be reported!
+Please search on the [Issue tracker](https://github.com/NOAA-EMC/testApp/issues) before creating one.
 
 **Expected behavior**
 <!-- Tell us what should happen. -->

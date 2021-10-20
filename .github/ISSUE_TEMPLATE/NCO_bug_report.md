@@ -1,6 +1,6 @@
 ---
 name: NCO Bug report
-about: Create a report to help us improve
+about: Create a bug report from NCO
 title: '[NCO Bug] <title>'
 labels: nco-bug
 assignees: 'arunchawla-NOAA'
